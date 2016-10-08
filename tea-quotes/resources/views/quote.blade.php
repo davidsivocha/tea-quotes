@@ -24,9 +24,17 @@
 </head>
 <body>
 <header id="top" class="header" style="background: url('/img/{{$quote->background}}') no-repeat center center scroll">
-    <div class="text-vertical-center">
-        <h1 class="text">{{$quote->text}}</h1>
-        <h3 class="author">&mdash; {{$quote->author}} <a href="/{{$quote->id}}" title="Permalink">#</a></h3>
+    <div class="text-row">
+        <div class="text-vertical-center">
+            <h1 class="text">{{$quote->text}}</h1>
+            <h3 class="author">&mdash; {{$quote->author}} <a href="/{{$quote->id}}" title="Permalink">#</a></h3>
+        </div>
+    </div>
+
+    <div class="text-row">
+        <div class="text-vertical-bottom">
+            <h6>Built with love for Kalistafy - because she liked the coffee one, but needed one for tea.</h6>
+        </div>
     </div>
 </header>
 <script>
