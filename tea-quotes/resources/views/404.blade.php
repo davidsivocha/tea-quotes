@@ -2,22 +2,22 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <meta name="description"               content="Enjoy a new quote everyday about Coffee">
+    <meta name="description"               content="Enjoy a new quote everyday about tea">
     <meta http-equiv="X-UA-Compatible"     content="IE=edge">
     <meta name="viewport"                  content="width=device-width, initial-scale=1.0">
     <meta name="author"                    content="David Sivocha">
-    <meta property="og:url"                content="http://coffeequotes.co.uk">
+    <meta property="og:url"                content="http://teaquotes.co.uk">
     <meta property="og:type"               content="website">
-    <meta property="og:title"              content="Coffee Quotes - Daily Quotes about Coffee">
+    <meta property="og:title"              content="Tea Quotes - Daily Quotes about tea">
     <meta property="og:description"        content="Sorry we couldn't find the quote you were looking for.'">
-    <meta property="og:image"              content="http://coffeequotes.co.uk/img/1.jpg">
+    <meta property="og:image"              content="http://teaquotes.co.uk/img/1.jpg">
     <meta name="twitter:card"              content="summary_large_image">
     <meta name="twitter:site"              content="@daelach">
     <meta name="twitter:creator"           content="@daelach">
-    <meta name="twitter:title"             content="Coffee Quotes - Daily Quotes about Coffee">
+    <meta name="twitter:title"             content="Tea Quotes - Daily Quotes about tea">
     <meta name="twitter:description"       content="Sorry we couldn't find the quote you were looking for.">
-    <meta name="twitter:image"             content="http://coffeequotes.co.uk/img/1.jpg">
-    <title>Coffee Quotes - Daily Quotes about Coffee</title>
+    <meta name="twitter:image"             content="http://teaquotes.co.uk/img/1.jpg">
+    <title>Tea Quotes - Daily Quotes about tea</title>
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
     <link href="/css/style.css" rel="stylesheet" type="text/css"/>
     <link href='http://fonts.googleapis.com/css?family=Alegreya:400,700|Roboto+Condensed' rel='stylesheet' type='text/css'>
