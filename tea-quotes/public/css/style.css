@@ -67,3 +67,8 @@ body {
 .header h3.author a {
     color: #fff;
 }
+
+.header h6 a {
+    color: #fff;
+    text-decoration: underline;
+}
