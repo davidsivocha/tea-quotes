@@ -33,7 +33,7 @@
 
     <div class="text-row">
         <div class="text-vertical-bottom">
-            <h6>Built with love for Meghan - because she liked the coffee one, but needed one for tea.</h6>
+            <h6>Built with love for Meghan - because she liked the <a href="http://coffeequotes.co.uk">coffee one</a>, but needed one for tea.</h6>
         </div>
     </div>
 </header>
